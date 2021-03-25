@@ -1,4 +1,6 @@
-# modal
+# Modal
+
+Technical test for Jet2
 
 ## Project setup
 ```
@@ -14,6 +16,3 @@ yarn serve
 ```
 yarn build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
