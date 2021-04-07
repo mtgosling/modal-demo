@@ -2,6 +2,8 @@
 
 Technical test for Jet2
 
+demo hosted at https://trusting-northcutt-2f6e35.netlify.app/
+
 ## Project setup
 ```
 yarn install
